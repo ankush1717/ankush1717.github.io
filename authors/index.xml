@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ankush Hommerich-Dutt</title>
+    <link>https://ankush1717.github.io/authors/</link>
+    <description>Recent content in Authors on Ankush Hommerich-Dutt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://ankush1717.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ankush1717.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankush1717.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! My name is Ankush and I am currently studying computer science (with a minor
+in data science) at Caltech.&lt;/p&gt;
+
+&lt;p&gt;Some of my interests within the field include deep learning applications, GPU programming, distributed computing, and numerical computing. I have work experience at Cadence Design Systems, The College of William and Mary,
+and NASA Langley Research Center.&lt;/p&gt;
+
+&lt;p&gt;Languages I know well are Python, C/C++, MATLAB, SQL, Verilog, and Scala. Some
+frameworks/tools I am very experienced with are Tensorflow/Pytorch/Keras, CUDA, Apache Spark, and Linux.&lt;/p&gt;
+
+&lt;p&gt;Fun facts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I can solve the Rubik&amp;rsquo;s Cube in 9 seconds and was once ranked #1 in Virginia&lt;/li&gt;
+&lt;li&gt;My favorite NBA team is the San Antonio Spurs and my favorite soccer team is Werder Bremen&lt;/li&gt;
+&lt;li&gt;I have been to 16 concerts and counting 😄&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
